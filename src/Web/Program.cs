@@ -245,3 +245,5 @@ app.MapFallbackToFile("index.html");
 
 app.Logger.LogInformation("LAUNCHING");
 app.Run();
+
+//This is a test
